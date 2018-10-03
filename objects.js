@@ -1,1 +1,1 @@
-//Object.assign({}, )
+var playlist = new Object({artistName:songTitle});
